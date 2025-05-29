@@ -1,0 +1,6 @@
+[submodule "reth"]
+	path = reth
+	url = https://github.com/5kyguy/reth.git
+[submodule "grandine"]
+	path = grandine
+	url = https://github.com/5kyguy/grandine.git
